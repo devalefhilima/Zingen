@@ -33,7 +33,7 @@ O **Zingen** é uma página de um app de música no formato **One Page**, totalm
 
 Você pode visualizar o layout do projeto através do link abaixo:  
 
-🔗 [Figma - Zingen](#) https://www.figma.com/design/EfErGwP9wHzvbuOWXLFEXA/LP-de-produto-(Community)?node-id=0-1&p=f&t=YSUnB2er6b0pcvNt-0 
+🔗 [Figma - Zingen](#)  (https://www.figma.com/design/EfErGwP9wHzvbuOWXLFEXA/LP-de-produto-(Community)?node-id=0-1&p=f&t=YSUnB2er6b0pcvNt-0)
 
 > ⚠️ **Nota**: É necessário ter uma conta no [Figma](https://www.figma.com/) para acessá-lo.
 
